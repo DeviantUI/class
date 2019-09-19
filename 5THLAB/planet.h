@@ -18,8 +18,6 @@ public:
 	void output();
 	float getdistance();
 	void moddistance();
-	void diskOut(ofstream& fout);
-	void diskIn(ifstream& fin);
 	string getname();
 };
 #endif // Planet_H
